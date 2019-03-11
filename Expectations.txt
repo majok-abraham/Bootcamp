@@ -1,0 +1,9 @@
+Expectations from the bootcamp
+
+1. Learn Node js and related frameworks/libraries such as react js
+
+2. Gain more experience and knowledge in using git
+
+3. Collaboration with teammate and rest of the group.
+
+4. Gain competitive and good programming practices. 
